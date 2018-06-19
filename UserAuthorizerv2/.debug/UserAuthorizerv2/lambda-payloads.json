@@ -1,0 +1,8 @@
+{
+    "UserAuthorizerv2": {
+        "lambda": {
+            "authorizationToken": "eyJraWQiOiJTdTBZQXZqbkhRRzVRUDFzZTJWUXM2SkFRZHlCVlwvMDVEWnNrSXpcLzA2ejA9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI5MDlkNTU0Zi1lYWQ1LTQzMzctYjhjYy00ZjUwMjViYzk0YjAiLCJhdWQiOiIybzhqM3RzZ290djJlNGs3cTBpYmR0NHQwbSIsImV2ZW50X2lkIjoiMTM0NzczM2MtNmZjNS0xMWU4LTk4MDAtYmQ0YjZiNDgzMzUxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1Mjg5NzUyODUsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC51cy1lYXN0LTIuYW1hem9uYXdzLmNvbVwvdXMtZWFzdC0yX0hWNGdpTXE2aiIsIm5hbWUiOiJKaW1pIEhlbmRyaXgiLCJjb2duaXRvOnVzZXJuYW1lIjoiOTA5ZDU1NGYtZWFkNS00MzM3LWI4Y2MtNGY1MDI1YmM5NGIwIiwicGhvbmVfbnVtYmVyIjoiKzkxOTg4NjI5NzA1MiIsImN1c3RvbTpvcmdpZCI6IjU1NSIsImV4cCI6MTUyODk3ODg4NSwiaWF0IjoxNTI4OTc1Mjg1fQ.GTM-JtJn-8tgUcLwV72Ml5mgJCgc7ke-7TU_TzFv5uoxZ9Z1gowe8s6zOg_b_48a0aFVwynQk8E17SWR4K9DiFVOrUJyMbdyoFb5RS4rg6tNhfB6aBSS01N5u2aK4dOdscog2SJw7fmwxLKckbVZt6BNm4ouPKpLF2BOj9yqgD8QzUNDsINtJQ4GH-Hwm4G1uP0MptYZN5GP3m7h-dj423dPsluXcC85B1EHjluh2nx7Qe_QYnEPfgMS40MPCaZeLhNY5I-e5ZCnTFYIpbxCKwEt1g9n1P_pWQXk8Midm4LZUEfijnzupE-RKntEbV99kTgTgu8y-ypAm1iG614Etg",
+            "methodArn": "arn:aws:execute-api:us-east-2:800856561310:ljhkkyfxv4/*/POST/confirmstep"
+        }
+    }
+}
